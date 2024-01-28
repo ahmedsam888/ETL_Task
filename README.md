@@ -72,7 +72,7 @@ ETL_Task/
 # Installation steps
 
 With pip, you can follow this steps:
-1. Clone the repository
+1. Clone the repository https://github.com/ahmedsam888/ETL_Task.git
 1. Create a virtual environment called `env`
 1. Activate the environment and install the requirements with `pip install -r requirements.txt`
 1. And, you can run your code with `python3 ETL_process.py` for the ETL
