@@ -45,7 +45,7 @@ Deployment Steps
 The basic project structure is as follows:
 
 ```bash
-ETL_MP/
+ETL_Task/
  |-- datasource/
  |   |-- used_car_prices1.csv
  |-- ETL_pipline/
